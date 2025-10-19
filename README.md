@@ -1,1 +1,1 @@
-Streamlit run TDchart
+streamlit run TDchart
